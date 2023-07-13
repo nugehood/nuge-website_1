@@ -14,6 +14,9 @@ params:
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
 
+  assets:
+    favicon: "/favicon.ico"
+
   label:
     text: "Anugerah"
     icon: "icon-1.png"
