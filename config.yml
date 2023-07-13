@@ -60,4 +60,8 @@ menu:
       - identifier: blogs
         name: Blogs
         url: /blogs/
+        weight: 3
+      - identifier: gallery
+        name: Arts
+        url: /gallery/
         weight: 2
