@@ -1,0 +1,53 @@
+baseURL: http://anugerah.netlify.app/
+languageCode: en-us
+title: Anugerah
+paginate: 5
+theme: "PaperMod"
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+
+  buttons:
+    - name: Archive
+      url: "/archive"
+
+  profileMode:
+        enabled: true
+        title: "Hi, I'm Anugerah." # optional default will be site title
+        subtitle: "Currently studying English Language Education."
+        imageUrl: "yakeh.png" # optional
+        imageTitle: "Anugerah's Profile Picture" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        
+  socialIcons: # optional
+        - name: GitHub
+          url: "https://www.github.com/nugehood"
+        - name: Instagram
+          url: "https://instagram.com/brflook"
+        - name: YouTube
+          url: "https://www.youtube.com/@anugerahprod"
+        - name: Mastodon
+          url: "https://mastodon.social/@nugehood"
+        - name: Email
+          url: "mailto:nugehoodg@gmail.com"
+        - name: buymeacoffee
+          url : "https://www.buymeacoffee.com/nugehood"
+
+menu:
+    main:
+      - identifier: about
+        name: About
+        url: /about/
+        weight: 1
+      - identifier: blogs
+        name: Blogs
+        url: /blogs/
+        weight: 2
