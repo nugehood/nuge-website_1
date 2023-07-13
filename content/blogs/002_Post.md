@@ -2,6 +2,7 @@
 title: "Why I'm changing to a new layout"
 date: 2023-07-13T15:54:53+08:00
 draft: false
+weight: 1
 ---
 
 This is not a new blog or website, and I'm still using the same domain as the previous one. The old layout in my opinion looked fine, it was minimalistic, but it was not that responsive (mainly because I played too much with the **CSS**).
