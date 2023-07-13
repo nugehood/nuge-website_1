@@ -5,6 +5,6 @@ draft: false
 type: gallery
 ---
 
-Here you could view some of my design!
+Here you could view some of my design!s
 
 ---
