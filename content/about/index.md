@@ -20,4 +20,5 @@ Connect with me through my [**Mastodon**](https://mastodon.social/@nugehood) pro
 
 ---
 Detailed resume could be downloaded 👉[**here**](https://rxresu.me/nugehood/anugerah).
-Reason of changing to a new layout could be found 👉
+
+Reason of changing to a new layout could be found 👉[**here**](/blogs/002_post)
