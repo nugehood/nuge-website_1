@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Anugerah</title>
+    <link>http://anugerah.netlify.app/tags/</link>
+    <description>Recent content in Tags on Anugerah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 May 2023 17:30:44 +0800</lastBuildDate><atom:link href="http://anugerah.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>internet</title>
+      <link>http://anugerah.netlify.app/tags/internet/</link>
+      <pubDate>Sun, 28 May 2023 17:30:44 +0800</pubDate>
+      
+      <guid>http://anugerah.netlify.app/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>http://anugerah.netlify.app/tags/privacy/</link>
+      <pubDate>Sun, 28 May 2023 17:30:44 +0800</pubDate>
+      
+      <guid>http://anugerah.netlify.app/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>http://anugerah.netlify.app/tags/security/</link>
+      <pubDate>Sun, 28 May 2023 17:30:44 +0800</pubDate>
+      
+      <guid>http://anugerah.netlify.app/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>http://anugerah.netlify.app/tags/technology/</link>
+      <pubDate>Sun, 28 May 2023 17:30:44 +0800</pubDate>
+      
+      <guid>http://anugerah.netlify.app/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
