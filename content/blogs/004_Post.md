@@ -4,6 +4,7 @@ date: 2023-07-13T23:54:03+08:00
 draft: false
 showtoc: true
 tags: [technology, internet, privacy, security]
+author: 'Anugerah'
 ---
 ## 1. Introduction
 ---

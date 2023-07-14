@@ -4,6 +4,7 @@ date: 2023-05-28T17:30:44+08:00
 draft: false
 showtoc: true
 tags: [technology, internet, privacy, security]
+author: 'Anugerah'
 ---
 
 ## READ BEFORE INTERACTING WITH LINKS!

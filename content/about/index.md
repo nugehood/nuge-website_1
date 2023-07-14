@@ -2,6 +2,10 @@
 title: "About Me"
 date: 2023-07-13T14:03:29+08:00
 draft: false
+disableshare: true
+showreadingtime: false
+ShowBreadCrumbs: false
+hidemeta: true
 ---
 
 I am currently a student in the English Language Education Study Program at my university. I also graduated vocational high school as a software engineer.

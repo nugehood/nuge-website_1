@@ -28,6 +28,7 @@ params:
     - name: Archive
       url: "/archive"
 
+
   profileMode:
         enabled: true
         title: "Hi, I'm Anugerah." # optional default will be site title

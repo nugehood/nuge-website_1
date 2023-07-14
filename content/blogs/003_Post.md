@@ -3,6 +3,7 @@ title: "Breaking the Waves is beautifully broken..."
 date: 2023-03-01T21:27:17+08:00
 draft: false
 tags: [movies,review] 
+author: 'Anugerah'
 ---
 
 When you were reading about who Lars is, then you have to agree in one way or another to the fact that this movie is a living embodiment of who Lars is.
