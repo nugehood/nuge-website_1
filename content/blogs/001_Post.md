@@ -151,3 +151,5 @@ I hope you will engulf and obsess yourself with your privacy because it is impor
 7. https://repair.eu/news/apples-self-repair-programme-is-not-the-right-to-repair-we-need/
 8. https://searx.thegpm.org/
 9. https://www.reddit.com/r/privacy/wiki/index/
+
+{{< chat nuge001post >}}
