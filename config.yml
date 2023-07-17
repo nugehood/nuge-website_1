@@ -23,7 +23,7 @@ params:
 
   label:
     text: "Anugerah"
-    icon: "icon-1.png"
+    icon: "icon-2.png"
   buttons:
     - name: Archive
       url: "/archive"
@@ -66,3 +66,7 @@ menu:
         name: Arts
         url: /gallery/
         weight: 2
+      - identifier: tags
+        name: Tags
+        url: /tags/
+        weight: 4
