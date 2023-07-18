@@ -12,7 +12,7 @@ It cannot be denied that the modern world brings more **psychological stress** t
 
 One could argue that these changes are pretty important and that they are necessary for us to keep going and whatnot. Do we really need these changes, do we really need these improvements? What has led us into this spiral of technological advancement, and why do people praise the industrial revolution? Well, I'm here to partly, briefly answer those questions, with a help from the book **Industrial Society and Its Future** by **Theodore Kaczynski**, or *Uncle Ted*.
 
-First of all, humans have been through many **evolution** and **revolutions**. The one that started it all was the usage of fire, who would've thought? From then and on, we started to make pieces of machinery to replace, or threaten to replace our bodily functions:
+First of all, humans have been through many **evolution** and **revolutions**. One of the crucial one that started it all was the usage of fire, who would've thought? From then and on, we started to make pieces of machinery to replace, or threaten to replace our bodily functions:
 1. Motor
 2. sensory,
 3. and auditory
@@ -31,9 +31,11 @@ Why does it bring **stress**? Why would we want to go back to primitive, isn't i
 5. and so forth.
 
 Consequently, this would yield someone to just touch grass and actually live off of it. Planting their own food, building their own homes, tending their own cattle, and such. Because heck, we have a lot of freedom if we do that. Those activities are literally necessary for humans to learn. You can't always rely on people to do important activities such as:
-Cooking
-Farming
-Building
+
+1. Cooking
+2. Farming
+3. Building
+
 I might be a little bit biased, or projecting my dissatisfaction, but it's true. We need to really go back to our prime lives, don't be stuck on our chairs or our phone, and scroll endlessly.
 
 >The Industrial Revolution and its consequences have been a disaster for the human race.
