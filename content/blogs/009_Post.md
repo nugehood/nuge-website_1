@@ -66,7 +66,7 @@ I would like to dedicate this section for the people who have helped this projec
 5. Afif for supporting role and newspaper design.
 6. Wildy for supporting role.
 7. Elma for assisting some shot.
-8. Tiara for supporting role and microphone.
+8. Meila for supporting role and microphone.
 9. Gita for assisting me throughout the shoot.
 
 Everyone else in the group who's given their time, just in case we need something:
