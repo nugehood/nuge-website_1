@@ -33,7 +33,7 @@ We were stalling for 15-20 minutes as I recalled. After everyone's here, we set 
 ![name](/20230811_104034.jpg#center)
 
 
-So how do we do 2 screenplay with 3 hours of time? Well... We cut some scenes out from the script and somehow reworked both script so it could relates to each other. Initially it was two seperate story, but then my girlfriend noticed something, one script could be used for the main story, and my script could be used as a flashback scene. **Brilliant!** And so we shoot, shoot and shoot the first script. It took 1+ hours to finished shooting the first script, and even that's not enough! With much little time left, we had to start with the second script - my script. My script is a little bit tedious for how much time we had, we had to move furnitures a lot. Compared to the uncut one, it could be more tedious, because there was tons of dialogue and scenes. Alas, you know how it goes: **It's a wrap!**
+So how did we do 2 screenplay with 3 hours of time? Well... We cut some scenes out from the script and somehow reworked both script so it could relates to each other. Initially it was two seperate story, but then my girlfriend noticed something, one script could be used for the main story, and my script could be used as a flashback scene. **Brilliant!** And so we shoot, shoot and shoot the first script. It took 1+ hours to finished shooting the first script, and even that's not enough! With much little time left, we had to start with the second script - my script. My script is a little bit tedious for how much time we had, we had to move furnitures a lot. Compared to the uncut one, it could be more tedious, because there was tons of dialogue and scenes. Alas, you know how it goes: **It's a wrap!**
 
 ![name1](/2023-08-11.jpeg#center)
 
