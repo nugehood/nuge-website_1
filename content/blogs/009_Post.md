@@ -59,15 +59,15 @@ Our movie is not perfect, and it could be more if we were given so much time. Bu
 ---
 I would like to dedicate this section for the people who have helped this project, directly:
 
-1. Kak Bhisma for initially proposed this idea and script.
-2. Kak Tasya for approving Bhisma's adhd and buying wadai.
-3. Tiara for being MC.
-4. Fier for supporting role.
-5. Afif for supporting role and newspaper design.
-6. Wildy for supporting role.
-7. Elma for assisting some shot.
-8. Meila for supporting role and microphone.
-9. Gita for assisting me throughout the shoot.
+1. Gita for assisting me throughout the shoot.
+2. Kak Bhisma for initially proposed this idea and script.
+3. Kak Tasya for approving Bhisma's adhd and buying wadai.
+4. Tiara for being MC.
+5. Fier for supporting role.
+6. Afif for supporting role and newspaper design.
+7. Wildy for supporting role.
+8. Elma for assisting some shot.
+9. Meila for supporting role and microphone.
 
 Everyone else in the group who's given their time, just in case we need something:
 
