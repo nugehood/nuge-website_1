@@ -5,6 +5,7 @@ draft: false
 tags: [writing, cinema]
 author: 'Anugerah'
 showtoc: true
+latest: true
 ---
 
 So, what does the title of this post indicates? It was all about the amount of screenplay that we have **(2)**, the time that we were given to shoot at the location **(3)**, and the amount of days before the deadline of the movie or video **(3)**. Alas, we made it. It's **~~IM~~POSSIBLE!**
