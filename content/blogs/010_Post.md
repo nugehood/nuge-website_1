@@ -4,6 +4,7 @@ date: 2023-08-25T20:25:14+08:00
 draft: false
 tags: [mental health, psychology]
 author: 'Anugerah'
+latest: true
 ---
 
 In a world where people are exposed and becoming aware about mental health and its problems, has it ever been a good time talking about our mental health problems now than ever? Mental health is a very hard pill to swallow. I have to argue that with the amount of exposure to these topic, people would be a little be concerened and skeptic. Why is that? Because it has become too oversaturated. When you're trying to talk or post something about mental health problems that you have, you will need to reconsider and or even hold yourself back, because there are going to be judgements coming your way. I think the latter cannot be more true than doing it in a mainstream place or platform (Instagram, Facebook, etc). That's where most of the skepticism came from, all the "fake" psychological disorder or bla bla bla. So, to talk about your mental health and condition you need to have your own page in which you are going to be less likely to be found (only if you promote your page). If you're writing doesn't have anyone reading it so then what's the point? Well, it could be a place for your digital journal. Journaling helps alot, because it will keep track of what you were thinking, storing it, and then evaluating upon it. I want to talk about it, and I even hesitate to do it, but this is my page and I can rest assured that I will be safe.
