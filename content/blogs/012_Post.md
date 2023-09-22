@@ -50,7 +50,7 @@ Went and gone
 Most of them turns to dirt and soil
 <br>
 <br>
-Nature leave
+Nature leaves
 <br>
 Its goodbye was the last green leaf
 <br>
