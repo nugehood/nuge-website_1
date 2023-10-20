@@ -1,10 +1,10 @@
 ---
 title: "The Bachelor of Every Degree!"
 date: 2023-10-12T21:56:38+08:00
-draft: false
+draft: true
 tags: [Poem]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 {{<rawhtml>}}
 
