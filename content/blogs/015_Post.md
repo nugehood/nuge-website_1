@@ -13,6 +13,6 @@ So, what is this feeling? That is so horrible that a mind can only fathom **0.00
 
 The free man that we think we are, was not so free at all. For this disease does not see the color, age, religion, ideology, personality, gender, or physical features of a man. Hold us captive, kept us locked in the dark with no sense of humor and wits. In a sense, a mind full of freedom will be a prisoner to its vast and grandeur land; and an oppressed mind will be a prisoner to its tight walls and low ceiling. 
 
-Only dimly aware of a certain unease in the air - the man looked upon the many ideologies of escapism offered in the book of religions and ritualistic endeavors. Resulting in a momentary joy that will soon followed by relapse.
+Only dimly aware of a certain unease in the air - the man looked upon the many ideologies of escapism offered in the book of religions and ritualistic endeavors. Resulting in a momentary joy that will soon followed by relapse. Certain and uncertained faith.
 
 ***We are earthlings, and we have roamed the earth for as long as it spins. Each one of us living in a pack, and the other unpacked. We all lived to touch and to see.***
