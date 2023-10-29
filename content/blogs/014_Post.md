@@ -4,7 +4,7 @@ date: 2023-10-22T13:11:24+08:00
 draft: false
 tags: [Poem]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 {{<rawhtml>}}
