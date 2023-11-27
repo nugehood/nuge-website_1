@@ -32,3 +32,5 @@ To conclude, if you want to be creative and offered a course to be creative in c
 1. [Creativity](https://app.thestorygraph.com/books/4b89fd4d-332f-408e-b8b6-f065b69a1bbe)
 2. [Hare Brain, Tortoise Mind](https://app.thestorygraph.com/books/fa5f300e-e0d1-40c6-b069-cdf46fcb6339)
 3. [Negative Capability](https://aeon.co/essays/it-is-art-not-apps-that-helps-us-with-our-complex-feelings)
+
+{{< chat nuge016post >}}
