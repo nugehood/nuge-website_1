@@ -3,7 +3,7 @@ title: "To Whom it may Concern"
 date: 2023-10-28T10:16:32+08:00
 draft: false
 tags: [literature, philosophy]
-latest: true
+latest: false
 author: 'Anugerah'
 ---
 
