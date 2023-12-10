@@ -6,6 +6,7 @@ tags: [Fiction, Short-story]
 author: 'Anugerah'
 latest: true
 ---
+![man](/man.png#center)
 
 One day, a man walked into a bar. Inside, he sat on the bar stool and ordered a glass full of Brandy. One must have thought that this man rushed his way and took a quick swig at the glass full of Brandy. In fact, the contrary happened. For all we know, the bar is a place to drown away the sorrow, but this man did not want to drown his just yet. Yes, of course, the man came with all of his sorrow, but he's a man of sense. While sitting down, his eyes were fixed on the glass of Brandy. Premonitions came to mind, all of it - hungover, robbed, and waking up late. The man of sense - let's call him that, finally raised his glass and slowly put the rim against his lips. It was slow at first, but that pungent taste of Brandy was to be a friend of his after drops went to stream. "I must be sensible! There is just no way I am going to be late tomorrow. Moreover, without my wallet in my pocket!", thought the man wearily. What a man, he sure has his own ups and downs, but he is a man of great sense after all!
 
