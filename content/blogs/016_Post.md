@@ -3,7 +3,7 @@ title: "Creativity in College is a JOKE!"
 date: 2023-11-26T13:02:16+08:00
 draft: false
 tags: [education, non-fiction, creativity]
-latest: true
+latest: false
 author: 'Anugerah'
 ---
 
