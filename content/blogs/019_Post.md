@@ -7,7 +7,7 @@ author: 'Anugerah'
 latest: true
 ---
 
-Unbeknownst to them, all of their life were spent on their livelihood. So, it
+aUnbeknownst to them, all of their life were spent on their livelihood. So, it
 means that they have decided, [un]conciously, to live by it. It is a distraction, big
 enough to forget all about the pain and suffering. Consequently, to keep this
 illusion going, for the collective, they have decided to coined a term: The Expert.
