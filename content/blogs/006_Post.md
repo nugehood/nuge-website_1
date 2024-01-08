@@ -4,8 +4,6 @@ date: 2023-07-17T22:24:24+08:00
 draft: false
 tags: [technology]
 author: 'Anugerah'
-pinned: true
-weight: 2
 ---
 
 This will be a short writing, it is more of a statement.
