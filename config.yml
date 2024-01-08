@@ -1,7 +1,7 @@
 baseURL: http://anugerah.netlify.app/
 languageCode: en-us
 title: Anugerah
-paginate: 5
+paginate: 10
 theme: "PaperMod"
 
 params:
