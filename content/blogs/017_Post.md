@@ -4,7 +4,7 @@ date: 2023-12-10T14:41:08+08:00
 draft: false
 tags: [Fiction, Short-story]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 ![man](/man.png#center)
 
