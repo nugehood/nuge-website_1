@@ -4,7 +4,7 @@ date: 2024-01-08T20:05:07+08:00
 draft: false
 tags: [Poem]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 Unbeknownst to them, all of their life were spent on their livelihood. So, it
