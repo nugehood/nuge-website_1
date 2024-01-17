@@ -17,7 +17,7 @@ List of softwares that I found was just horrendous. I can't even considered most
 
 ## Enter WritePlus
 ---
-Let me tell you about my encounter with WritePlus. So, I was desperate — yet again — to find a "Distraction-free" software. Because I've been using **Notepad++** to write my short story, and using a text/code editor is not really optimal and efficient for me. Even though I was able to write like a thousand word in total. Beside, I was in a desperate situation... That is until I searched for it again and got redirected into the ***Microsoft Store***. Now, I've avoided Microsoft Store for a long time, that's because I thought it was just another ***Epic Games*** scenario — but I was mistaken. That's because all of the best software, unironically, could be found there. One of them is: ***WritePlus***.
+Let me tell you about my encounter with WritePlus. So, I was desperate — yet again — to find a “Distraction-free” software. And I’ve been using Notepad++ to write my short story — using a text/code editor is not really optimal and efficient for me. Even though I was able to write like a thousand words in total. I was desperate… That is until I searched for it again and got redirected to the Microsoft Store. I’ve avoided Microsoft Store for a long time, that’s because I thought it was just another Epic Games scenario — but I was mistaken. That’s because all of the best software, unironically, could be found there. One of them is WritePlus.
 
 ![01](/02_web.PNG#center)
 
