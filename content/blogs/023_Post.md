@@ -2,7 +2,7 @@
 title: "I Want to Write"
 date: 2024-01-27T18:16:06+08:00
 draft: false
-tags: [Poem]
+tags: [Poem, Writing]
 author: 'Anugerah'
 ---
 
