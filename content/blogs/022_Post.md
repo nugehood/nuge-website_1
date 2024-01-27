@@ -4,7 +4,7 @@ date: 2024-01-17T22:14:39+08:00
 draft: false
 tags: [software, productivity, writing]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 ## The Struggle
