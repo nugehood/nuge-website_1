@@ -4,7 +4,7 @@ date: 2024-01-27T18:16:06+08:00
 draft: false
 tags: [Poem]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 I want to write as if I don't have to think about anything. To write without the hesitation of organizing thoughts and making up sentences that make sense. I want to write.
