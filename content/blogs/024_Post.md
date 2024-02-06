@@ -4,7 +4,7 @@ date: 2024-01-29T20:16:54+08:00
 draft: false
 tags: []
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 Solitude is a womb. A place of beginning. There's no end to solitude. A place where a man can have the liberty to express themselves. There, they can use their body and mind without any hesitation. Best of all, a place of no being. It reminds us of the ether, where everything is self; and no separation of beings. We hate and dislike another human being because we cannot see ourselves in them. We reserve to the idea of calling them “Mad” and “Crazy”. Very ironic, because the one that cannot comprehend them, is the one that calls them “Crazy”.
