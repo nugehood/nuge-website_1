@@ -17,20 +17,18 @@ params:
   label:
     text: "Anugerah"
     icon: "icon-2.png"
-  buttons:
-    - name: Archive
-      url: "/archive"
 
 
   profileMode:
         enabled: true
-        title: "Hi, I'm Anugerah." # optional default will be site title
-        subtitle: "Currently studying English Language Education."
-        imageUrl: "yakeh.png" # optional
+        title: "Anugerah" # optional default will be site title
+        subtitle: "[ Graphic Designer | Video Editor | Film Director | Writer ]"
+        imageUrl: "linkedin_01.png" # optional
         imageTitle: "Anugerah's Profile Picture" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
-        
+        imageWidth: 150 # custom size
+        imageHeight: 150 # custom size
+
+
   socialIcons: # optional
         - name: GitHub
           url: "https://www.github.com/nugehood"
@@ -40,6 +38,8 @@ params:
           url: "https://www.youtube.com/@anugerahprod"
         - name: Mastodon
           url: "https://mastodon.social/@nugehood"
+        - name: linkedin
+          url : "https://www.linkedin.com/in/anugerah-maulana-2ab193175/"
         - name: Email
           url: "mailto:nugehoodg@gmail.com"
         - name: buymeacoffee
