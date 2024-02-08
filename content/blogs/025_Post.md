@@ -4,7 +4,7 @@ date: 2024-02-06T11:18:25+08:00
 draft: false
 tags: [idea, philosophy]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 What do you get from talking too much? When you're eating too much, you will get fat. When you're walking too much, you will get tired. So, what about talking too much? I mean, of course, you are going to get tired. However, what kind of effect does it have on you? Walking too much will tire you, but the result is, you're going to be more healthy. What about talking too much? You talk too much, you will get tired, and...? Well, I can hear you yelling, "You will either get smarter or dumber!". Hahaha, you're right. I mean, as the writer, that's what I thought! Kind of meta, huh? Essentially, the purpose of talking is to communicate. Communication happens between two people or more. Let's clear that out of the way. Talking to yourself as a means of communication is not very effective. Why? Because, when you're talking to yourself, your thought process will only be limited to your words. So, if you're working on something whilst talking (**e.g. reading, working**), your thought process will be hindered.
