@@ -8,13 +8,13 @@ ShowBreadCrumbs: false
 hidemeta: true
 ---
 
-I am currently a student in the English Language Education Study Program at my university. I also graduated vocational high school as a software engineer.
+My name is Anugerah and I am a student in the English Language Education Study Program at my university. I also graduated from vocational high school as a software engineer.
 
-I produce content digitally on social media such as **YouTube** and **Instagram**. Producing content in form of **digital art** and **film**.
+I produce content digitally on social media such as **YouTube** and **Instagram**. Producing content in the form of **digital art** and **film**.
 
-I have years of organizational skills on an organization that orientates on debating. In the organization I am currently put in the **Media and Design** division. I've also led team of Publication and Documentation for a debating event called **KODE** (Kalimantan Open Debate).
+I have years of organizational skills in an organization that orientates on debating. In the organization, I am currently put in the **Media and Design** division. I've also led a team of Publication and Documentation for a debating event called **KODE** (Kalimantan Open Debate).
 
-You can check out my work on these following platforms:
+You can check out my work on the following platforms:
 
 - 📺 **YouTube**: [**Video Essays**](https://www.youtube.com/channel/UC9fm0Qk3WUMCkONVAflB87g), [**Films**](https://www.youtube.com/@anugerahprod)
 - 🎨 [**Instagram**](https://www.instagram.com/Brflook)
@@ -24,5 +24,3 @@ Connect with me through my [**Mastodon**](https://mastodon.social/@nugehood) pro
 
 ---
 Detailed resume could be downloaded 👉[**here**](https://rxresu.me/nugehoodg/imported-from-reactive-resume-18052023081533).
-
-Reason of changing to a new layout could be found 👉[**here**](/blogs/002_post)
