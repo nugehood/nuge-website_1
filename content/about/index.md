@@ -23,4 +23,4 @@ You can check out my work on the following platforms:
 Connect with me through my [**Mastodon**](https://mastodon.social/@nugehood) profile or contact me through my [**E-mail**](mailto:nugehoodg@gmail.com).
 
 ---
-Detailed resume could be downloaded 👉[**here**](https://rxresu.me/nugehoodg/imported-from-reactive-resume-18052023081533).
+Detailed resume could be downloaded 👉[**here**](https://rxresu.me/nugehoodg/anugerah-portfolio).
