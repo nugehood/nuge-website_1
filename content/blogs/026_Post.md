@@ -4,7 +4,7 @@ date: 2024-02-08T13:56:36+08:00
 draft: false
 tags: [writing]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 I believe the activity of writing to be an introverted one. Thereby, you need to absolutely manifest whatever it is in your unconscious mind into the stream of consciousness, which results in a series of words. Well, people can also argue that every kind of activity that requires focus needs focus — wow! So, I am saying the obvious? Not really.
