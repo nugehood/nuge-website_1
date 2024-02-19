@@ -4,7 +4,7 @@ date: 2024-02-16T18:42:59+08:00
 draft: false
 tags: [writing, productivity, technology ]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 People, writers, often go outside to write. Most of them prefer to do so because it offers a place for them to solely — and vehemently, focus on their writing. Surprisingly, in this day and age, people have started to find alternatives to keep themselves busy without the option of going places; physically.
