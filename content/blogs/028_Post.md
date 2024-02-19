@@ -8,23 +8,22 @@ latest: true
 showtoc: true
 ---
 
-Essentially and initially, the internet is used to store information. These information are then stored into a website, and displayed using a Markup language like **HTML**. Thereafter, people started write about a bunch of things into their own personal website. These websites are known as Blog.
+Essentially and initially, the internet is used to store information. This information is then stored on a website and displayed using a Markup language like **HTML**. Thereafter, people started writing about a bunch of things on their own personal website. These websites are known as blogs.
 
-Before the dawn of big social media like Instagram, Facebook, and Twitter, there were an abundance of blogs scattered around the internet. Blogs are not social media because they're not centralized like main stream social media. Back then, to run a blog means to run your own website; and it requires you to have your own domain and server, which is not cheap. Despite all of that, people were keen to create their own blog, because it offers them freedom to personalize and share thoughts or ideas.
+Before the dawn of big social media like Instagram, Facebook, and Twitter, there was an abundance of blogs scattered around the internet. Blogs are not social media because they're not centralized like mainstream social media. Back then, to run a blog meant to run your own website; and it required you to have your own domain and server, which is not cheap. Despite all of that, people were keen to create their own blog, because it offers them freedom to personalize and share thoughts or ideas.
 
-Nowadays, it's easy to create and deploy your own blog. Without any fee. Initially, the most dominant place to create your own blog is a service by **Blogger**, which was owned by Google way back in 2003. Blogger was the most accesible service when it comes to making your own blog. You don't need to have prior experience in programming and web development. Blogger offers you an extensive amount of presets for customization. It was great for entry level user like writer. However, not so much for people who cared for their privacy and needs of in-depth customization.
+Nowadays, it's easy to create and deploy your own blog. Without any fee. Initially, the most dominant place to create your own blog was a service by **Blogger**, which was owned by Google way back in 2003. Blogger was the most accessible service when it comes to making your own blog. You don't need to have prior experience in programming and web development. Blogger offers you an extensive amount of presets for customization. It was great for entry-level users like writers. However, not so much for people who cared for their privacy and needs of in-depth customization.
 
 ## Here comes the Bear!
+Another problem when it comes to making your own blog or making it with large services such as WordPress is that they are full of bloats. Filled with unnecessary features. This has been a problem throughout the web development community; the concern of adding unnecessary features to the website. For example, using an excessive amount of **JavaScript** which slows down the website. People are starting to consider the idea of accessibility for their websites. They want people using different kinds of devices with different kinds of **OS** (operating systems) to be able to access the blog/website without any kind of error. Because some devices don't have the support for features that modern websites offer, like JavaScript.
 
-Another problem when it comes to making your own blog, or making it with large services such as WordPress, is that they are full of bloats. Filled with unecessary features. This has been a problem throughout the web development community; the concern of adding unecessary features in the website. For example, using an excessive amount of **JavaScript** which slows down the website. People is starting to consider the idea of accessibilty for their websites. They want people using different kinds of device with different kind of **OS** (operating system) to be able to access the blog/website without any kind of error. Because some devices don't have the support for features that modern website offers, like JavaScript.
+But it doesn't mean that your website should be - although plain, still readable like the [Motherfucking Website](https://motherfuckingwebsite.com/). You can still design your blog without overtly over-designing it. There are a lot of services that do just that, but my go-to has got to be [Bear ʕ•ᴥ•ʔ](https://bearblog.dev/).
 
-But it doesn't mean that your website should be  — although plain, still readable like the [Motherfucking Website](https://motherfuckingwebsite.com/). You can still design your blog without overtly over-designing them. There are a lot of services that do just that, but my go-to has got to be [Bear ʕ•ᴥ•ʔ](https://bearblog.dev/).
-
-**Bear**, or as I like to call it, "***Bearblog***" is a service which lets you build and deploy your own minimalistic blog easily. Here's the slogan:
+**Bear**, or as I like to call it, "***Bearblog***" is a service that lets you build and deploy your own minimalistic blog easily. Here's the slogan:
 
 > A privacy-first, no-nonsense, super-fast blogging platform.
 > No trackers, no javascript, no stylesheets. Just your words.
-
+> 
 I believe Bearblog tries to bring back the old and pure idea of blogging. **Shun the bloat of the current web, embrace the bear necessities**. The whole idea can be underlined by its features:
 
 * Looks great on any device
