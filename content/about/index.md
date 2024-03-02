@@ -17,7 +17,7 @@ I have years of organizational skills in an organization that orientates on deba
 You can check out my work on the following platforms:
 
 - 📺 **YouTube**: [**Video Essays**](https://www.youtube.com/channel/UC9fm0Qk3WUMCkONVAflB87g), [**Films**](https://www.youtube.com/@anugerahprod)
-- 🎨 [**Instagram**](https://www.instagram.com/Brflook)
+- 🎨 [**Instagram**](https://www.instagram.com/brief.look)
 - 💻 [**GitHub**](https://github.com/nugehood)
 
 Connect with me through my [**Mastodon**](https://mastodon.social/@nugehood) profile or contact me through my [**E-mail**](mailto:nugehoodg@gmail.com).

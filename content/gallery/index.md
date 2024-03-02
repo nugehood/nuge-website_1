@@ -11,4 +11,6 @@ hidemeta: true
 
 Here you could view some of my design!
 
+Some designs are meant to be put into slides. For more interactability, got to my [**Instagram**](https://www.instagram.com/brief.look).
+
 ---
