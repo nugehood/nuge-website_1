@@ -9,7 +9,13 @@ ShowBreadCrumbs: false
 hidemeta: true
 ---
 
-Here you could view some of my design!
+When I design, I have to follow the four E's of design that I created:
+1. Educate
+2. Engage
+3. Elevate
+4. Elaborate
+
+I believe that a design should not always be **static**. It could also be **dynamic**.
 
 Some designs are meant to be put into slides. For more interactability, got to my [**Instagram**](https://www.instagram.com/brief.look).
 
