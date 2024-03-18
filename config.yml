@@ -33,11 +33,9 @@ params:
         - name: GitHub
           url: "https://www.github.com/nugehood"
         - name: Instagram
-          url: "https://instagram.com/brflook"
+          url: "https://instagram.com/brief.look"
         - name: YouTube
-          url: "https://www.youtube.com/@anugerahprod"
-        - name: Mastodon
-          url: "https://mastodon.social/@nugehood"
+          url: "https://www.youtube.com/@crunchypie"
         - name: linkedin
           url : "https://www.linkedin.com/in/anugerah-maulana-2ab193175/"
         - name: Email
