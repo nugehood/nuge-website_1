@@ -42,6 +42,8 @@ params:
           url: "mailto:nugehoodg@gmail.com"
         - name: buymeacoffee
           url : "https://www.buymeacoffee.com/nugehood"
+        - name: medium
+          url: "https://medium.com/@nugehoodg"
 
 menu:
     main:
