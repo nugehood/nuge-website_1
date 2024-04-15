@@ -20,7 +20,7 @@ You can check out my work on the following platforms:
 - 🎨 [**Instagram**](https://www.instagram.com/brief.look)
 - 💻 [**GitHub**](https://github.com/nugehood)
 
-Connect with me through my [**Mastodon**](https://mastodon.social/@nugehood) profile or contact me through my [**E-mail**](mailto:nugehoodg@gmail.com).
+Contact me through my [**E-mail**](mailto:nugehoodg@gmail.com).
 
 ---
 Detailed resume could be downloaded 👉[**here**](https://rxresu.me/nugehoodg/anugerah-portfolio).
