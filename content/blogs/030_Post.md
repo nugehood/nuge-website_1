@@ -11,12 +11,12 @@ latest: true
 {{<rawhtml>}}
 
 <p>
-A man with a great deal of honesty will shine as bright as the sun;
+A man with a great deal of honesty will fly as high as the sky;
+<br>
+shine as bright as the sun;
 <br>
 sink as deep as the void;
 <br>
-fly as high as the sky;
-<br>
-and fall as hard from the sun, the sky, and to the void.
+and lived chronologically.
 </p>
 {{</rawhtml>}}
