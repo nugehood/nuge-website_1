@@ -17,8 +17,8 @@ Amang engot tuh nah
 Lihati
 Itihi
 Dangari
-Mambawa gaduk ditampari
-Mabawa zinet ditandangi
+Manggaduk ditampari
+Manzinet ditandangi
 Tapi inya kada kasakitan ai
 
 Aduhai
