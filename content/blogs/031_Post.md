@@ -4,7 +4,7 @@ date: 2024-04-19T18:30:41+08:00
 draft: false
 tags: [technology, productivity]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 The internet has provided us with the ability to answer our curiosities. The abundance of information had been a blessing for us. However, as time passed, there came a problem concerning information overload. In accordance with the former — content overload has also become a thing, especially with content-oriented platforms like **Facebook**, **X**, **Instagram**, and **YouTube**. Consequently, they will try to somehow push these contents to their audience by using some kind of "_dealer_".
