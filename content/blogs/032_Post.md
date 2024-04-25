@@ -1,10 +1,10 @@
 ---
 title: "Urang nang apa?"
 date: 2024-04-20T18:14:17+08:00
-draft: false
+draft: true
 tags: [poem, banjarese]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 [Link to the process of writing the poem](/blogs/033_post)

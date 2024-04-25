@@ -59,6 +59,10 @@ menu:
         name: Arts
         url: /gallery/
         weight: 2
+      - identifier: fonts
+        name: Resources
+        url: /fonts/
+        weight: 6
       - identifier: video
         name: Videos
         url: /videos/

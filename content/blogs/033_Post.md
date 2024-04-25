@@ -1,10 +1,10 @@
 ---
 title: "How I wrote a Banjarese poem"
 date: 2024-04-20T18:21:51+08:00
-draft: false
+draft: true
 tags: [writing, banjarese]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 [Link to the poem](/blogs/032_post)
