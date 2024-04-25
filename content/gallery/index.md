@@ -17,6 +17,6 @@ When I design, I have to follow the four E's of design that I created:
 
 I believe that a design should not always be **static**. It could also be **dynamic**.
 
-Some designs are meant to be put into slides. For more interactability, got to my [**Instagram**](https://www.instagram.com/brief.look).
+Some designs are meant to be put into slides. For more design and art related content, go to my [**Instagram**](https://www.instagram.com/brief.look).
 
 ---
