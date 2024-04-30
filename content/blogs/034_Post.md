@@ -4,7 +4,7 @@ date: 2024-04-26T17:19:24+08:00
 draft: false
 tags: [writing, productivity]
 author: 'Anugerah'
-latest: true
+latest: false
 ShowPostNavLinks: true
 ---
 
