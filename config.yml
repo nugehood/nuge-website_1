@@ -22,7 +22,7 @@ params:
   profileMode:
         enabled: true
         title: "Anugerah" # optional default will be site title
-        subtitle: "[ Graphic Designer | Video Editor | Film Director | Writer ]"
+        subtitle: "Graphic Designer | Video Editor | Film Director | Writer"
         imageUrl: "linkedin_01.png" # optional
         imageTitle: "Anugerah's Profile Picture" # optional
         imageWidth: 150 # custom size
