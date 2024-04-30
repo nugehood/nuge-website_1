@@ -1,5 +1,5 @@
 ---
-title: "Doberman"
+title: "Balada Jas warna [isi sendiri]"
 date: 2024-04-30T20:56:55+08:00
 draft: false
 tags: [poem]
@@ -35,6 +35,7 @@ Dasar nyamuk!
 Silahkan saja tuan bermain peran
 Tapi jangan marah
 Apabila banyak yang bosan
+Mendengar tuan ceramah
 
 Tuan hanya bisa bertameng pangkat dan umur
 Itu tandanya tuan sudah tidak subur
