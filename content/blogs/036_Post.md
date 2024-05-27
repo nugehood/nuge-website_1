@@ -20,3 +20,5 @@ An intermezzo is a short orchestral piece, often heard in between acts of an ope
 Whatever thoughts you have, I believe they need to be communicated in the correct ways. For example, I'll balance things out by communicating using written and spoken forms. I'll talk to someone very close to me about my feelings and thoughts if they trust me to; and not to hurt their feelings (which is often, very hard). In case I have that kind of feeling that I know is not necessary — or yapping as they called it — I will write them down in my journal.
 
 Thank you so much for reading. I hope you will have a nice day <3
+
+{{< chat nuge036post >}}
