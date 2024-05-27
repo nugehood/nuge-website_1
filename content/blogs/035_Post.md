@@ -1,10 +1,10 @@
 ---
-title: "Balada Jas warna [isi sendiri]"
+title: "Balada Jas Berwarna"
 date: 2024-04-30T20:56:55+08:00
 draft: false
 tags: [poem]
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 {{<rawhtml>}}
