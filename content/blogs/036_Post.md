@@ -4,7 +4,7 @@ date: 2024-05-27T17:07:24+08:00
 draft: false
 tags: []
 author: 'Anugerah'
-latest: true
+latest: false
 ---
 
 The title is an excerpt from an Indonesian song called ["Intermezzo"](https://youtu.be/aVEG5XI86d0?si=ihAdGXYun00BZgoU&t=224) by legendary artist **Iwan Fals**, translated into English. This is the actual lyric

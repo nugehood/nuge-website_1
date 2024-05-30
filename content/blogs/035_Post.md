@@ -2,7 +2,7 @@
 title: "Balada Jas Berwarna"
 date: 2024-04-30T20:56:55+08:00
 draft: false
-tags: [poem]
+tags: [poem, Indonesia]
 author: 'Anugerah'
 latest: false
 ---
